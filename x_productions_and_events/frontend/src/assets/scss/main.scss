@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@300&display=swap');
+
+$blue1: #2c6ec4;
+$blue2: #090d4f;
+$blue3: #59ad61;
+$purple: #5b3372;
+
+
+
+
+
+$primary: $blue1;
+$link: $blue2;
+$info: $purple;
+$success: $blue3;
+
+
+@import "~bulma";
